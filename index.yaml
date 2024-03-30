@@ -1,13 +1,25 @@
 apiVersion: v1
 entries:
   designate-certmanager-webhook:
-  - apiVersion: v1
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-03-30T10:44:34.256424914Z"
-    description: ACME webhook Implementation for OpenStack Designate
-    digest: 78f5971ed1db2d93b98077b6d75d2f9af0f670f0c64c3f10ac06a2d4d0715c7c
+    created: "2024-03-30T11:02:15.318141325Z"
+    description: A Helm chart to install designate-certmanager-webhook
+    digest: 518e5ad0b4cab23625e3319a06984205a5969e712f724aeed8dd0cf893deb98d
+    home: https://github.com/Fred78290/designate-certmanager-webhook/
+    icon: https://raw.githubusercontent.com/Fred78290/designate-certmanager-webhook/master/images/cert-manager-webhook.png
+    keywords:
+    - cert-manager
+    - designate
+    - openstack
+    - dns-saas
+    maintainers:
+    - name: Fred78290
+      url: https://github.com/Fred78290/
     name: designate-certmanager-webhook
+    sources:
+    - https://github.com/Fred78290/designate-certmanager-webhook/
     urls:
     - https://Fred78290.github.io/designate-certmanager-webhook/designate-certmanager-webhook-0.0.0.tgz
     version: 0.0.0
-generated: "2024-03-30T10:44:34.255806906Z"
+generated: "2024-03-30T11:02:15.317581629Z"
