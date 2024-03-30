@@ -16,7 +16,7 @@ entries:
     maintainers:
     - name: Fred78290
       url: https://github.com/Fred78290/
-    name: designate-certmanager-webhook
+    name: designate-certmanager
     sources:
     - https://github.com/Fred78290/designate-certmanager-webhook/
     urls:
