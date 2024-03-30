@@ -1,2 +1,25 @@
 apiVersion: v1
 entries:
+  designate-certmanager:
+  - apiVersion: v2
+    appVersion: 1.29.3
+    created: "2024-03-30T11:34:17.579523133Z"
+    description: A Helm chart to install designate-certmanager-webhook
+    digest: 33f405f71ed12a3857d3c99514732420b0a22179e8c99dd842c073297182aa84
+    home: https://github.com/Fred78290/designate-certmanager-webhook/
+    icon: https://raw.githubusercontent.com/Fred78290/designate-certmanager-webhook/master/images/cert-manager-webhook.png
+    keywords:
+    - cert-manager
+    - designate
+    - openstack
+    - dns-saas
+    maintainers:
+    - name: Fred78290
+      url: https://github.com/Fred78290/
+    name: designate-certmanager
+    sources:
+    - https://github.com/Fred78290/designate-certmanager-webhook/
+    urls:
+    - https://Fred78290.github.io/designate-certmanager-webhook/designate-certmanager-1.29.3.tgz
+    version: 1.29.3
+generated: "2024-03-30T11:34:17.578934985Z"
